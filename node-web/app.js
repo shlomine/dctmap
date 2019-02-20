@@ -22,7 +22,9 @@
 
 // Set up mongoose connection
 
-const uri = 'mongodb://'+config.db.user+':'+config.db.password+'@'+config.db.host+':'+config.db.port+'/'+config.dcmapp.base;
+var cuid=process.argv[2];
+
+const uri = 'mongodb://'+config.db.user+':'+config.db.password+'@'+config.db.host+':'+config.db.port+'/'+config.dcmapp.title+'_'+cuid;
 mongoose.connect(uri, { useNewUrlParser: true, "auth": {"authSource": "admin"} })
   .then(() =>  
     console.log(mongoose.connection.name+' connection succesful'),
