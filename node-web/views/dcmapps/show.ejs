@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Customer Detail</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div class="container">
+      <h3><a href="/customers">Customers List</a></h3>
+      <h1>Customers Detail</h1>
+      <table>
+        <tbody>
+          <tr>
+            <td>Name</td>
+            <td>:</td>
+            <td><%= customer.cName %></td>
+          </tr>
+          <tr>
+            <td>Location</td>
+            <td>:</td>
+            <td><%= customer.cLocation %></td>
+          </tr>
+          <tr>
+            <td>Project Manager</td>
+            <td>:</td>
+            <td><%= customer.cProjM %></td>
+          </tr>
+          <tr>
+            <td>Technical Manager</td>
+            <td>:</td>
+            <td><%= customer.cTechM %></td>
+          </tr>
+          <tr>
+            <td>Start Date</td>
+            <td>:</td>
+            <td><%= customer.cStartDate %></td>
+          </tr>
+          <tr>
+            <td>Status</td>
+            <td>:</td>
+            <td><%= customer.cStatus %></td>
+          </tr>
+        </tbody>
+      </table>
+      <h3><a href="/customers/edit/<%= customer._id%>">EDIT</a></h3>
+      <form action="/customers/delete/<%= customer._id%>" method="post">
+        <button type="submit">DELETE</button>
+      </form>
+    </div>
+  </body>
+</html>

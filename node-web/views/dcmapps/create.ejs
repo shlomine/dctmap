@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Create Customer</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div class="container">
+      <h3><a href="/customers">Customers List</a></h3>
+      <h1>Create New Customer</h1>
+      <form action="/customers/save" method="post">
+        <table>
+          <tbody>
+            <tr>
+              <td>Name</td>
+              <td><input type="text" name="cName" /></td>
+            </tr>
+            <tr>
+              <td>Location</td>
+              <td><input type="text" name="cLocation" /></td>
+            </tr>
+            <tr>
+              <td>Project Manager</td>
+              <td><input type="text" name="cProjM" /></td>
+            </tr>
+            <tr>
+              <td>Technical Manager</td>
+              <td><input type="text" name="cTechM" /></td>
+            </tr>
+            <tr>
+              <td>Start Date</td>
+              <td><input type="text" name="cStartDate" /></td>
+            </tr>
+            <tr>
+              <td>Status</td>
+              <td><input type="text" name="cStatus" /></td>
+            </tr>
+            <tr>
+              <td colspan="2"><input type="submit" value="Save" /></td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Edit Customer</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div class="container">
+      <h3><a href="/customers">Customers List</a></h3>
+      <h1>Edit Customer</h1>
+      <form action="/customers/update/<%= customer._id%>" method="post">
+        <table>
+          <tbody>
+            <tr>
+              <td>Name</td>
+              <td><input type="text" name="cName" value="<%= customer.cName %>" /></td>
+            </tr>
+            <tr>
+              <td>Location</td>
+              <td><input type="text" name="cLocation" value="<%= customer.cLocation %>" /></td>
+            </tr>
+            <tr>
+              <td>Project Manager</td>
+              <td><input type="text" name="cProjM" value="<%= customer.cProjM %>" /></td>
+            </tr>
+            <tr>
+              <td>Technical Manager</td>
+              <td><input type="text" name="cTechM" value="<%= customer.cTechM %>" /></td>
+            </tr>
+            <tr>
+              <td>Start Date</td>
+              <td><input type="text" name="cStartDate" value="<%= customer.cStartDate %>" /></td>
+            </tr>
+            <tr>
+              <td>Status</td>
+              <td><input type="text" name="cStatus" value="<%= customer.cStatus %>" /></td>
+            </tr>
+            <tr>
+              <td colspan="2"><button type="submit">Update</button></td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div>
+  </body>
+</html>

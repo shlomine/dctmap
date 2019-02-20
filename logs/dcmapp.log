@@ -1,0 +1,797 @@
+2019-02-15 20:23:31.536	Create DB Tnuva
+2019-02-15 20:23:57.426	Create DB Tnuva
+2019-02-15 20:25:58.253	Create DB Tnuva
+2019-02-15 20:25:58.310	dcmapp_Tnuva connection succesful
+2019-02-15 20:26:38.977	Create DB Tnuva
+2019-02-15 20:26:39.035	dcmapp_Tnuva Create succesfuly
+2019-02-15 20:28:01.151	Create DB Tnuva
+2019-02-15 20:28:01.215	dcmapp_Tnuva Create succesfuly
+2019-02-15 20:30:48.951	Create DB Tnuva
+2019-02-15 20:30:48.968	<<<< finish with Tnuva create
+2019-02-15 20:30:49.012	dcmapp_Tnuva Create succesfuly
+2019-02-15 20:33:07.110	Create DB Tnuva
+2019-02-15 20:33:07.185	dcmapp_Tnuva Create succesfuly
+2019-02-15 20:33:07.190	!!! SQL Disconnected! !!!!
+2019-02-15 20:34:25.762	Create DB Tnuva
+2019-02-15 20:34:25.819	dcmapp_Tnuva Create succesfuly
+2019-02-15 20:34:25.821	!!! dcmapp_Tnuva Disconnected! !!!!
+2019-02-15 20:35:11.463	Create DB Tnuva
+2019-02-15 20:35:11.524	dcmapp_Tnuva Create succesfuly
+2019-02-15 20:35:11.529	dcmapp_Tnuva Disconnected!
+2019-02-15 20:35:11.529	<<<< finish with Tnuva create
+2019-02-15 22:35:10.964	Create DB Tnuva
+2019-02-15 22:35:11.024	dcmapp_Tnuva Create succesfuly
+2019-02-15 22:35:11.026	dcmapp_Tnuva Disconnected!
+2019-02-15 22:35:11.026	<<<< finish with Tnuva create
+2019-02-15 22:46:16.802	<<<< finish with Databases list >>>>
+2019-02-15 22:52:54.704	<<<< finish with Databases list >>>>
+2019-02-15 22:55:03.409	<<<< finish with Databases list >>>>
+2019-02-15 22:55:09.869	<<<< finish with Databases list >>>>
+2019-02-16 08:18:41.686	<<<< finish with Databases list >>>>
+2019-02-16 08:19:54.112	Missing argv input [list] | [create/show_tbl/drop] Customer
+2019-02-16 08:20:15.218	Create DB Cellcom
+2019-02-16 08:20:15.270	dcmapp_Cellcom Create succesfuly
+2019-02-16 08:20:15.274	dcmapp_Cellcom Disconnected!
+2019-02-16 08:20:15.274	<<<< finish with Cellcom create
+2019-02-16 08:20:20.445	<<<< finish with Databases list >>>>
+2019-02-16 11:47:36.221	Create DB Cellcom
+2019-02-16 11:47:36.293	dcmapp_Cellcom Create succesfuly
+2019-02-16 11:47:36.294	dcmapp_Cellcom Disconnected!
+2019-02-16 11:47:36.295	<<<< finish with Cellcom create
+2019-02-16 11:50:19.971	Create DB Cellcom
+2019-02-16 11:50:20.025	dcmapp_Cellcom Create succesfuly
+2019-02-16 11:50:20.026	dcmapp_Cellcom Disconnected!
+2019-02-16 11:50:45.517	Create DB Cellcom
+2019-02-16 11:50:45.587	dcmapp_Cellcom Create succesfuly
+2019-02-16 11:50:45.588	dcmapp_Cellcom Disconnected!
+2019-02-16 11:50:45.588	<<<< Cellcom table Contacts create COLLOK
+2019-02-16 11:50:45.589	<<<< Cellcom table Phases create COLLOK
+2019-02-16 11:50:45.589	<<<< Cellcom table Sites create COLLOK
+2019-02-16 11:50:45.589	<<<< Cellcom table Rooms create COLLOK
+2019-02-16 11:50:45.589	<<<< Cellcom table Cabinets create COLLOK
+2019-02-16 11:50:45.589	<<<< Cellcom table DCIDs create COLLOK
+2019-02-16 11:50:45.589	<<<< finish with Cellcom create
+2019-02-16 11:54:27.132	Create DB Cellcom
+2019-02-16 11:54:27.230	dcmapp_Cellcom Create succesfuly
+2019-02-16 11:54:27.231	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.315	<<<< finish with Cellcom create
+2019-02-16 11:54:27.415	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.415	<<<< Cellcom table Phases create COLLOK
+2019-02-16 11:54:27.415	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.415	<<<< Cellcom table Sites create COLLOK
+2019-02-16 11:54:27.416	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.416	<<<< Cellcom table Rooms create COLLOK
+2019-02-16 11:54:27.416	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.416	<<<< Cellcom table Cabinets create COLLOK
+2019-02-16 11:54:27.416	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.416	<<<< Cellcom table DCIDs create COLLOK
+2019-02-16 11:54:27.417	dcmapp_Cellcom Disconnected!
+2019-02-16 11:54:27.417	<<<< Cellcom table Contacts create COLLOK
+2019-02-16 11:54:27.436	dcmapp_Cellcom/Phases Collection create succesfuly
+2019-02-16 11:54:27.472	dcmapp_Cellcom/Rooms Collection create succesfuly
+2019-02-16 11:54:27.473	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 11:54:27.474	dcmapp_Cellcom/Sites Collection create succesfuly
+2019-02-16 11:54:27.475	dcmapp_Cellcom/Cabinets Collection create succesfuly
+2019-02-16 11:55:45.564	<<<< finish with Databases list >>>>
+2019-02-16 11:55:58.358	<<<< finish with Databases list >>>>
+2019-02-16 12:12:51.437	<<<< finish with Databases list >>>>
+2019-02-16 12:12:56.348	Create DB Cellcom
+2019-02-16 12:12:56.402	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:12:56.405	dcmapp_Cellcom Disconnected!
+2019-02-16 12:12:56.405	<<<< finish with Cellcom create
+2019-02-16 12:13:05.149	<<<< finish with Databases list >>>>
+2019-02-16 12:14:44.903	Create DB Cellcom
+2019-02-16 12:14:44.962	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:14:44.992	dcmapp_Cellcom Disconnected!
+2019-02-16 12:14:44.993	<<<< finish with Cellcom create
+2019-02-16 12:14:54.268	<<<< finish with Databases list >>>>
+2019-02-16 12:15:50.361	<<<< finish with Databases list >>>>
+2019-02-16 12:15:53.592	Create DB Cellcom
+2019-02-16 12:15:53.648	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:15:53.683	dcmapp_Cellcom Disconnected!
+2019-02-16 12:15:53.683	<<<< finish with Cellcom create
+2019-02-16 12:16:19.429	Create DB Cellcom
+2019-02-16 12:16:19.486	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:16:19.516	dcmapp_Cellcom Disconnected!
+2019-02-16 12:16:19.516	<<<< finish with Cellcom create
+2019-02-16 12:17:40.144	Create DB Cellcom
+2019-02-16 12:17:40.204	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:17:40.242	dcmapp_Cellcom Disconnected!
+2019-02-16 12:17:40.242	<<<< finish with Cellcom create
+2019-02-16 12:18:19.074	Create DB Cellcom
+2019-02-16 12:18:19.128	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:18:19.195	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 12:18:19.201	dcmapp_Cellcom/Phases Collection create succesfuly
+2019-02-16 12:18:19.212	dcmapp_Cellcom/Sites Collection create succesfuly
+2019-02-16 12:18:19.213	dcmapp_Cellcom/Rooms Collection create succesfuly
+2019-02-16 12:18:19.225	dcmapp_Cellcom/Cabinets Collection create succesfuly
+2019-02-16 12:18:19.226	dcmapp_Cellcom/DCIDs Collection create succesfuly
+2019-02-16 12:18:34.013	<<<< finish with Databases list >>>>
+2019-02-16 12:18:38.922	Create DB Cellcom
+2019-02-16 12:18:38.976	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:18:39.018	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 12:18:39.049	dcmapp_Cellcom/Sites Collection create succesfuly
+2019-02-16 12:18:39.050	dcmapp_Cellcom/Phases Collection create succesfuly
+2019-02-16 12:18:39.054	dcmapp_Cellcom/Rooms Collection create succesfuly
+2019-02-16 12:18:39.055	dcmapp_Cellcom/DCIDs Collection create succesfuly
+2019-02-16 12:18:39.055	dcmapp_Cellcom/Cabinets Collection create succesfuly
+2019-02-16 12:19:04.558	<<<< finish with Databases list >>>>
+2019-02-16 12:19:47.597	<<<< finish with Databases list >>>>
+2019-02-16 12:19:51.813	Create DB Cellcom
+2019-02-16 12:19:51.866	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:19:51.944	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 12:19:51.949	dcmapp_Cellcom/Sites Collection create succesfuly
+2019-02-16 12:19:51.950	dcmapp_Cellcom/Phases Collection create succesfuly
+2019-02-16 12:19:51.953	dcmapp_Cellcom/Rooms Collection create succesfuly
+2019-02-16 12:19:51.954	dcmapp_Cellcom/Cabinets Collection create succesfuly
+2019-02-16 12:19:51.955	dcmapp_Cellcom/DCIDs Collection create succesfuly
+2019-02-16 12:25:36.954	Create DB Cellcom
+2019-02-16 12:25:37.026	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:25:37.052	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 12:26:04.841	Create DB Cellcom
+2019-02-16 12:26:04.904	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:26:04.922	<<<< finish with Cellcom create
+2019-02-16 12:26:04.925	<<<< finish with Cellcom create
+2019-02-16 12:26:04.927	<<<< finish with Cellcom create
+2019-02-16 12:26:04.928	<<<< finish with Cellcom create
+2019-02-16 12:26:04.930	<<<< finish with Cellcom create
+2019-02-16 12:26:04.932	<<<< finish with Cellcom create
+2019-02-16 12:26:04.948	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 12:26:04.968	dcmapp_Cellcom/Sites Collection create succesfuly
+2019-02-16 12:26:04.973	dcmapp_Cellcom/Phases Collection create succesfuly
+2019-02-16 12:26:04.975	dcmapp_Cellcom/Rooms Collection create succesfuly
+2019-02-16 12:26:04.976	dcmapp_Cellcom/Cabinets Collection create succesfuly
+2019-02-16 12:26:04.976	dcmapp_Cellcom/DCIDs Collection create succesfuly
+2019-02-16 12:27:28.882	Create DB Cellcom
+2019-02-16 12:27:28.899	<<<< finish with Cellcom create
+2019-02-16 12:27:28.949	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:27:28.983	dcmapp_Cellcom/Contacts Collection create succesfuly
+2019-02-16 12:27:28.991	dcmapp_Cellcom/Phases Collection create succesfuly
+2019-02-16 12:27:28.991	dcmapp_Cellcom/Sites Collection create succesfuly
+2019-02-16 12:27:28.996	dcmapp_Cellcom/Rooms Collection create succesfuly
+2019-02-16 12:27:28.997	dcmapp_Cellcom/DCIDs Collection create succesfuly
+2019-02-16 12:27:28.997	dcmapp_Cellcom/Cabinets Collection create succesfuly
+2019-02-16 12:28:55.785	Create DB Cellcom
+2019-02-16 12:28:55.884	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:35:06.176	Create DB Cellcom
+2019-02-16 12:35:06.231	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:35:06.252	dcmapp_Cellcom Disconnected!
+2019-02-16 12:35:06.253	<<<< finish with Cellcom create
+2019-02-16 12:35:50.812	Create DB Cellcom
+2019-02-16 12:35:50.866	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:35:50.880	<<<< Cellcom table Contacts COLLOK
+2019-02-16 12:35:50.882	<<<< Cellcom table Phases COLLOK
+2019-02-16 12:35:50.884	<<<< Cellcom table Sites COLLOK
+2019-02-16 12:35:50.885	<<<< Cellcom table Rooms COLLOK
+2019-02-16 12:35:50.887	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 12:35:50.889	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 12:35:50.897	dcmapp_Cellcom Disconnected!
+2019-02-16 12:35:50.898	<<<< finish with Cellcom create
+2019-02-16 12:36:11.419	Create DB Cellcom
+2019-02-16 12:36:11.477	dcmapp_Cellcom Create succesfuly
+2019-02-16 12:36:11.491	<<<< Cellcom table Contacts COLLOK
+2019-02-16 12:36:11.494	<<<< Cellcom table Phases COLLOK
+2019-02-16 12:36:11.496	<<<< Cellcom table Sites COLLOK
+2019-02-16 12:36:11.497	<<<< Cellcom table Rooms COLLOK
+2019-02-16 12:36:11.499	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 12:36:11.502	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 12:36:11.512	dcmapp_Cellcom Disconnected!
+2019-02-16 12:36:11.512	<<<< finish with Cellcom create
+2019-02-16 12:36:16.620	<<<< finish with Databases list >>>>
+2019-02-16 12:42:21.411	<<<< finish with Databases list >>>>
+2019-02-16 12:54:17.656	<<<< finish with Databases list >>>>
+2019-02-16 13:06:21.792	dcmapp_Cellcom Create succesfuly
+2019-02-16 13:06:21.794	dcmapp_Cellcom Disconnected!
+2019-02-16 13:07:16.717	dcmapp_Cellcom Disconnected!
+2019-02-16 13:27:55.799	Create DB Cellcom
+2019-02-16 13:29:39.383	Create DB Cellcom
+2019-02-16 13:29:39.438	dcmapp_Cellcom Create succesfuly
+2019-02-16 13:29:39.452	<<<< Cellcom table Contacts COLLOK
+2019-02-16 13:29:39.454	<<<< Cellcom table Phases COLLOK
+2019-02-16 13:29:39.455	<<<< Cellcom table Sites COLLOK
+2019-02-16 13:29:39.457	<<<< Cellcom table Rooms COLLOK
+2019-02-16 13:29:39.459	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 13:29:39.461	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 13:29:39.470	dcmapp_Cellcom Disconnected!
+2019-02-16 13:29:39.470	<<<< finish with Cellcom create
+2019-02-16 13:35:41.803	dcmapp_Cellcom Disconnected!
+2019-02-16 13:35:41.805	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 13:36:23.138	dcmapp_Cellcom Disconnected!
+2019-02-16 13:36:23.139	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 13:38:39.596	dcmapp_Cellcom Disconnected!
+2019-02-16 13:38:39.601	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 13:38:51.664	dcmapp_Cellcom Disconnected!
+2019-02-16 13:38:51.671	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 13:39:05.706	dcmapp_Cellcom Disconnected!
+2019-02-16 13:39:05.710	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 13:41:32.188	dcmapp_Cellcom Disconnected!
+2019-02-16 13:42:25.364	<<<< finish with Databases list >>>>
+2019-02-16 13:44:02.603	<<<< finish with Databases list >>>>
+2019-02-16 13:44:18.543	dcmapp_Cellcom Disconnected!
+2019-02-16 13:44:18.551	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 13:47:48.498	<<<< finish with Databases list >>>>
+2019-02-16 13:48:03.067	<<<< finish with Databases list >>>>
+2019-02-16 13:48:33.388	<<<< finish with Databases list >>>>
+2019-02-16 13:48:46.281	<<<< finish with Databases list >>>>
+2019-02-16 13:49:16.691	<<<< finish with Databases list >>>>
+2019-02-16 13:50:20.970	<<<< finish with Databases list >>>>
+2019-02-16 13:51:58.427	<<<< finish with Databases list >>>>
+2019-02-16 13:52:12.716	<<<< finish with Databases list >>>>
+2019-02-16 13:53:41.388	<<<< finish with Databases list >>>>
+2019-02-16 13:55:31.903	<<<< finish with Databases list >>>>
+2019-02-16 13:56:32.404	<<<< finish with Databases list >>>>
+2019-02-16 13:56:47.219	dcmapp_Cellcom Disconnected!
+2019-02-16 13:56:47.224	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:01:00.263	<<<< finish with Databases list >>>>
+2019-02-16 14:01:11.529	dcmapp_Cellcom Disconnected!
+2019-02-16 14:01:11.534	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:16:21.530	Drop DB Cellcom
+2019-02-16 14:16:21.598	dcmapp_Cellcom Disconnected!
+2019-02-16 14:16:21.599	<<<< finish with Cellcom drop
+2019-02-16 14:16:32.930	<<<< finish with Databases list >>>>
+2019-02-16 14:19:44.372	Drop DB Cellcom
+2019-02-16 14:19:44.445	dcmapp_Cellcom Disconnected!
+2019-02-16 14:19:44.445	<<<< finish with Cellcom drop
+2019-02-16 14:20:04.003	<<<< finish with Databases list >>>>
+2019-02-16 14:22:50.639	Drop DB Cellcom
+2019-02-16 14:22:50.697	dcmapp_Cellcom Disconnected!
+2019-02-16 14:22:50.698	<<<< finish with Cellcom drop
+2019-02-16 14:23:01.890	<<<< finish with Databases list >>>>
+2019-02-16 14:25:49.591	Drop DB Cellcom
+2019-02-16 14:25:49.656	dcmapp_Cellcom Disconnected!
+2019-02-16 14:26:09.400	<<<< finish with Databases list >>>>
+2019-02-16 14:26:12.737	Drop DB Cellcom
+2019-02-16 14:26:12.846	dcmapp_Cellcom Disconnected!
+2019-02-16 14:26:12.847	<<<< finish with Cellcom drop
+2019-02-16 14:26:22.858	<<<< finish with Databases list >>>>
+2019-02-16 14:29:45.710	Drop DB Cellcom
+2019-02-16 14:29:45.790	dcmapp_Cellcom Disconnected!
+2019-02-16 14:29:45.790	<<<< finish with Cellcom drop
+2019-02-16 14:29:50.675	<<<< finish with Databases list >>>>
+2019-02-16 14:29:56.820	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 14:30:07.242	dcmapp_Cellcom Disconnected!
+2019-02-16 14:30:07.245	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:30:28.336	Drop DB Cellcom
+2019-02-16 14:30:28.395	dcmapp_Cellcom Disconnected!
+2019-02-16 14:30:28.396	<<<< finish with Cellcom drop
+2019-02-16 14:30:39.754	dcmapp_Cellcom Disconnected!
+2019-02-16 14:30:39.756	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:30:47.714	<<<< finish with Databases list >>>>
+2019-02-16 14:31:55.196	Drop DB Cellcom
+2019-02-16 14:31:55.269	dcmapp_Cellcom Disconnected!
+2019-02-16 14:31:55.270	<<<< finish with Cellcom drop
+2019-02-16 14:32:02.308	<<<< finish with Databases list >>>>
+2019-02-16 14:32:05.996	dcmapp_Cellcom Disconnected!
+2019-02-16 14:32:05.999	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:36:24.435	Drop DB Cellcom
+2019-02-16 14:36:24.496	dcmapp_Cellcom Disconnected!
+2019-02-16 14:36:24.497	<<<< finish with Cellcom drop
+2019-02-16 14:36:24.512	dcmapp_Cellcom Disconnected!
+2019-02-16 14:37:52.260	Drop DB Cellcom
+2019-02-16 14:37:52.317	dcmapp_Cellcom Disconnected!
+2019-02-16 14:37:52.317	<<<< finish with Cellcom drop
+2019-02-16 14:37:52.338	dcmapp_Cellcom Disconnected!
+2019-02-16 14:42:05.424	Drop DB Cellcom
+2019-02-16 14:42:33.494	Drop DB Cellcom
+2019-02-16 14:43:18.534	Drop DB Cellcom
+2019-02-16 14:43:18.601	dcmapp_Cellcom Disconnected!
+2019-02-16 14:43:18.601	<<<< finish with Cellcom drop
+2019-02-16 14:47:04.672	Drop DB Cellcom
+2019-02-16 14:47:37.997	Drop DB Cellcom
+2019-02-16 14:47:51.202	<<<< finish with Databases list >>>>
+2019-02-16 14:48:02.634	dcmapp_Cellcom Disconnected!
+2019-02-16 14:48:02.637	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:48:48.638	Drop DB Cellcom
+2019-02-16 14:50:56.698	Drop DB Cellcom
+2019-02-16 14:53:30.544	Drop DB Cellcom
+2019-02-16 14:53:43.760	dcmapp_Cellcom Disconnected!
+2019-02-16 14:53:43.764	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:54:40.582	dcmapp_Cellcom Disconnected!
+2019-02-16 14:54:40.585	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:54:46.044	Drop DB Cellcom
+2019-02-16 14:54:48.897	Drop DB Cellcom
+2019-02-16 14:54:55.578	dcmapp_Cellcom Disconnected!
+2019-02-16 14:54:55.580	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:55:05.696	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 14:55:11.928	<<<< finish with Databases list >>>>
+2019-02-16 14:55:25.535	Create DB Cellcom
+2019-02-16 14:55:25.613	dcmapp_Cellcom Create succesfuly
+2019-02-16 14:55:25.636	<<<< Cellcom table Contacts COLLOK
+2019-02-16 14:55:25.640	<<<< Cellcom table Phases COLLOK
+2019-02-16 14:55:25.644	<<<< Cellcom table Sites COLLOK
+2019-02-16 14:55:25.647	<<<< Cellcom table Rooms COLLOK
+2019-02-16 14:55:25.649	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 14:55:25.652	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 14:55:25.663	dcmapp_Cellcom Disconnected!
+2019-02-16 14:55:25.664	<<<< finish with Cellcom create
+2019-02-16 14:55:29.756	dcmapp_Cellcom Disconnected!
+2019-02-16 14:55:29.758	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:55:49.209	<<<< finish with Databases list >>>>
+2019-02-16 14:55:53.422	Create DB Cellcom
+2019-02-16 14:55:53.476	dcmapp_Cellcom Create succesfuly
+2019-02-16 14:55:53.490	<<<< Cellcom table Contacts COLLOK
+2019-02-16 14:55:53.492	<<<< Cellcom table Phases COLLOK
+2019-02-16 14:55:53.494	<<<< Cellcom table Sites COLLOK
+2019-02-16 14:55:53.496	<<<< Cellcom table Rooms COLLOK
+2019-02-16 14:55:53.497	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 14:55:53.500	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 14:55:53.508	dcmapp_Cellcom Disconnected!
+2019-02-16 14:55:53.508	<<<< finish with Cellcom create
+2019-02-16 14:55:56.827	<<<< finish with Databases list >>>>
+2019-02-16 14:57:43.956	Create DB Cellcom
+2019-02-16 14:57:44.012	dcmapp_Cellcom Create succesfuly
+2019-02-16 14:57:44.026	<<<< Cellcom table Contacts COLLOK
+2019-02-16 14:57:44.028	<<<< Cellcom table Phases COLLOK
+2019-02-16 14:57:44.030	<<<< Cellcom table Sites COLLOK
+2019-02-16 14:57:44.032	<<<< Cellcom table Rooms COLLOK
+2019-02-16 14:57:44.034	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 14:57:44.036	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 14:57:44.046	dcmapp_Cellcom Disconnected!
+2019-02-16 14:57:44.046	<<<< finish with Cellcom create
+2019-02-16 14:57:50.282	<<<< finish with Databases list >>>>
+2019-02-16 14:57:59.271	dcmapp_Cellcom Disconnected!
+2019-02-16 14:57:59.273	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:58:15.592	Drop DB Cellcom
+2019-02-16 14:58:23.107	dcmapp_Cellcom Disconnected!
+2019-02-16 14:58:23.109	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:58:26.928	Create DB Cellcom
+2019-02-16 14:58:26.996	dcmapp_Cellcom Create succesfuly
+2019-02-16 14:58:27.010	<<<< Cellcom table Contacts COLLOK
+2019-02-16 14:58:27.013	<<<< Cellcom table Phases COLLOK
+2019-02-16 14:58:27.014	<<<< Cellcom table Sites COLLOK
+2019-02-16 14:58:27.016	<<<< Cellcom table Rooms COLLOK
+2019-02-16 14:58:27.018	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 14:58:27.020	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 14:58:27.028	dcmapp_Cellcom Disconnected!
+2019-02-16 14:58:27.028	<<<< finish with Cellcom create
+2019-02-16 14:58:37.579	dcmapp_Cellcom Disconnected!
+2019-02-16 14:58:37.581	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 14:58:46.618	Create DB LALA
+2019-02-16 14:58:46.694	dcmapp_LALA Create succesfuly
+2019-02-16 14:58:46.709	<<<< LALA table Contacts COLLOK
+2019-02-16 14:58:46.712	<<<< LALA table Phases COLLOK
+2019-02-16 14:58:46.713	<<<< LALA table Sites COLLOK
+2019-02-16 14:58:46.715	<<<< LALA table Rooms COLLOK
+2019-02-16 14:58:46.717	<<<< LALA table Cabinets COLLOK
+2019-02-16 14:58:46.720	<<<< LALA table DCIDs COLLOK
+2019-02-16 14:58:46.728	dcmapp_LALA Disconnected!
+2019-02-16 14:58:46.729	<<<< finish with LALA create
+2019-02-16 14:58:51.920	dcmapp_LALA Disconnected!
+2019-02-16 14:58:51.922	<<<< finish with LALA Collections collections >>>>
+2019-02-16 14:59:06.700	<<<< finish with Databases list >>>>
+2019-02-16 15:00:33.036	Create DB Tnuva
+2019-02-16 15:00:33.095	dcmapp_Tnuva Create succesfuly
+2019-02-16 15:00:33.110	<<<< Tnuva table Contacts COLLOK
+2019-02-16 15:00:33.112	<<<< Tnuva table Phases COLLOK
+2019-02-16 15:00:33.114	<<<< Tnuva table Sites COLLOK
+2019-02-16 15:00:33.116	<<<< Tnuva table Rooms COLLOK
+2019-02-16 15:00:33.118	<<<< Tnuva table Cabinets COLLOK
+2019-02-16 15:00:33.120	<<<< Tnuva table DCIDs COLLOK
+2019-02-16 15:00:33.130	dcmapp_Tnuva Disconnected!
+2019-02-16 15:00:33.130	<<<< finish with Tnuva create
+2019-02-16 15:00:41.641	<<<< finish with Databases list >>>>
+2019-02-16 15:01:38.430	Create DB Tnuva
+2019-02-16 15:01:38.489	dcmapp_Tnuva Create succesfuly
+2019-02-16 15:01:38.505	<<<< Tnuva table Contacts COLLOK
+2019-02-16 15:01:38.507	<<<< Tnuva table Phases COLLOK
+2019-02-16 15:01:38.509	<<<< Tnuva table Sites COLLOK
+2019-02-16 15:01:38.510	<<<< Tnuva table Rooms COLLOK
+2019-02-16 15:01:38.512	<<<< Tnuva table Cabinets COLLOK
+2019-02-16 15:01:38.515	<<<< Tnuva table DCIDs COLLOK
+2019-02-16 15:01:38.525	dcmapp_Tnuva Disconnected!
+2019-02-16 15:01:38.526	<<<< finish with Tnuva create
+2019-02-16 15:01:42.568	<<<< finish with Databases list >>>>
+2019-02-16 15:02:04.090	dcmapp_Tnuva Disconnected!
+2019-02-16 15:02:04.091	<<<< finish with Tnuva Collections collections >>>>
+2019-02-16 15:02:08.725	Create DB Tnuva
+2019-02-16 15:02:08.780	dcmapp_Tnuva Create succesfuly
+2019-02-16 15:02:08.795	<<<< Tnuva table Contacts COLLOK
+2019-02-16 15:02:08.797	<<<< Tnuva table Phases COLLOK
+2019-02-16 15:02:08.799	<<<< Tnuva table Sites COLLOK
+2019-02-16 15:02:08.801	<<<< Tnuva table Rooms COLLOK
+2019-02-16 15:02:08.802	<<<< Tnuva table Cabinets COLLOK
+2019-02-16 15:02:08.805	<<<< Tnuva table DCIDs COLLOK
+2019-02-16 15:02:08.814	dcmapp_Tnuva Disconnected!
+2019-02-16 15:02:08.815	<<<< finish with Tnuva create
+2019-02-16 15:02:14.887	<<<< finish with Databases list >>>>
+2019-02-16 15:02:21.809	Create DB Tnuvadddd
+2019-02-16 15:02:21.940	dcmapp_Tnuvadddd Create succesfuly
+2019-02-16 15:02:21.966	<<<< Tnuvadddd table Contacts COLLOK
+2019-02-16 15:02:21.972	<<<< Tnuvadddd table Phases COLLOK
+2019-02-16 15:02:21.975	<<<< Tnuvadddd table Sites COLLOK
+2019-02-16 15:02:21.977	<<<< Tnuvadddd table Rooms COLLOK
+2019-02-16 15:02:21.980	<<<< Tnuvadddd table Cabinets COLLOK
+2019-02-16 15:02:21.983	<<<< Tnuvadddd table DCIDs COLLOK
+2019-02-16 15:02:21.998	dcmapp_Tnuvadddd Disconnected!
+2019-02-16 15:02:21.999	<<<< finish with Tnuvadddd create
+2019-02-16 15:02:24.730	<<<< finish with Databases list >>>>
+2019-02-16 15:02:53.198	Create DB Tnuva
+2019-02-16 15:02:53.258	dcmapp_Tnuva Create succesfuly
+2019-02-16 15:02:53.273	<<<< Tnuva table Contacts COLLOK
+2019-02-16 15:02:53.275	<<<< Tnuva table Phases COLLOK
+2019-02-16 15:02:53.277	<<<< Tnuva table Sites COLLOK
+2019-02-16 15:02:53.278	<<<< Tnuva table Rooms COLLOK
+2019-02-16 15:02:53.280	<<<< Tnuva table Cabinets COLLOK
+2019-02-16 15:02:53.282	<<<< Tnuva table DCIDs COLLOK
+2019-02-16 15:02:53.293	dcmapp_Tnuva Disconnected!
+2019-02-16 15:02:53.293	<<<< finish with Tnuva create
+2019-02-16 15:02:59.648	<<<< finish with Databases list >>>>
+2019-02-16 15:03:16.885	<<<< finish with Databases list >>>>
+2019-02-16 15:03:20.184	Create DB Tnuva
+2019-02-16 15:03:20.258	dcmapp_Tnuva Create succesfuly
+2019-02-16 15:03:20.273	<<<< Tnuva table Contacts COLLOK
+2019-02-16 15:03:20.275	<<<< Tnuva table Phases COLLOK
+2019-02-16 15:03:20.277	<<<< Tnuva table Sites COLLOK
+2019-02-16 15:03:20.278	<<<< Tnuva table Rooms COLLOK
+2019-02-16 15:03:20.280	<<<< Tnuva table Cabinets COLLOK
+2019-02-16 15:03:20.282	<<<< Tnuva table DCIDs COLLOK
+2019-02-16 15:03:20.296	dcmapp_Tnuva Disconnected!
+2019-02-16 15:03:20.297	<<<< finish with Tnuva create
+2019-02-16 15:03:22.543	<<<< finish with Databases list >>>>
+2019-02-16 15:03:43.785	<<<< finish with Databases list >>>>
+2019-02-16 15:03:47.719	Create DB Tnuva
+2019-02-16 15:03:47.781	dcmapp_Tnuva Create succesfuly
+2019-02-16 15:03:47.796	<<<< Tnuva table Contacts COLLOK
+2019-02-16 15:03:47.798	<<<< Tnuva table Phases COLLOK
+2019-02-16 15:03:47.800	<<<< Tnuva table Sites COLLOK
+2019-02-16 15:03:47.801	<<<< Tnuva table Rooms COLLOK
+2019-02-16 15:03:47.803	<<<< Tnuva table Cabinets COLLOK
+2019-02-16 15:03:47.806	<<<< Tnuva table DCIDs COLLOK
+2019-02-16 15:03:47.815	dcmapp_Tnuva Disconnected!
+2019-02-16 15:03:47.815	<<<< finish with Tnuva create
+2019-02-16 15:03:50.241	<<<< finish with Databases list >>>>
+2019-02-16 20:27:20.509	<<<< finish with Databases list >>>>
+2019-02-16 20:27:39.050	Create DB Cellcom
+2019-02-16 20:27:39.137	dcmapp_Cellcom Create succesfuly
+2019-02-16 20:27:39.170	<<<< Cellcom table Contacts COLLOK
+2019-02-16 20:27:39.173	<<<< Cellcom table Phases COLLOK
+2019-02-16 20:27:39.176	<<<< Cellcom table Sites COLLOK
+2019-02-16 20:27:39.179	<<<< Cellcom table Rooms COLLOK
+2019-02-16 20:27:39.181	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 20:27:39.185	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 20:27:39.196	dcmapp_Cellcom Disconnected!
+2019-02-16 20:27:39.197	<<<< finish with Cellcom create
+2019-02-16 20:27:42.622	<<<< finish with Databases list >>>>
+2019-02-16 20:29:40.618	Create DB Cellcom
+2019-02-16 20:29:40.766	dcmapp_Cellcom Create succesfuly
+2019-02-16 20:29:40.792	<<<< Cellcom table Contacts COLLOK
+2019-02-16 20:29:40.798	<<<< Cellcom table Phases COLLOK
+2019-02-16 20:29:40.802	<<<< Cellcom table Sites COLLOK
+2019-02-16 20:29:40.805	<<<< Cellcom table Rooms COLLOK
+2019-02-16 20:29:40.810	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 20:29:40.814	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 20:29:40.833	dcmapp_Cellcom Disconnected!
+2019-02-16 20:29:40.833	<<<< finish with Cellcom create
+2019-02-16 20:29:49.234	<<<< finish with Databases list >>>>
+2019-02-16 20:38:56.319	Create DB Cellcom
+2019-02-16 20:38:56.412	dcmapp_Cellcom Create succesfuly
+2019-02-16 20:38:56.433	<<<< Cellcom table Contacts COLLOK
+2019-02-16 20:38:56.436	<<<< Cellcom table Phases COLLOK
+2019-02-16 20:38:56.439	<<<< Cellcom table Sites COLLOK
+2019-02-16 20:38:56.441	<<<< Cellcom table Rooms COLLOK
+2019-02-16 20:38:56.443	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 20:38:56.446	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 20:38:56.460	dcmapp_Cellcom Disconnected!
+2019-02-16 20:38:56.460	<<<< finish with Cellcom create
+2019-02-16 20:47:49.182	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 20:47:58.241	Drop DB Cellcom
+2019-02-16 20:48:09.401	<<<< finish with Databases list >>>>
+2019-02-16 20:48:23.300	<<<< finish with Databases list >>>>
+2019-02-16 20:50:07.911	Drop DB Cellcom
+2019-02-16 20:50:17.892	<<<< finish with Databases list >>>>
+2019-02-16 20:50:23.733	Drop DB Cellcom
+2019-02-16 20:51:07.300	Drop DB Cellcom
+2019-02-16 20:51:40.125	Drop DB Cellcom
+2019-02-16 20:53:57.643	Drop DB Cellcom
+2019-02-16 20:57:09.617	Drop DB Cellcom
+2019-02-16 20:57:09.764	dcmapp_Cellcom_contacts Droped!
+2019-02-16 20:57:28.357	<<<< finish with Databases list >>>>
+2019-02-16 20:58:01.323	Drop DB Cellcom
+2019-02-16 20:58:52.231	Drop DB Cellcom
+2019-02-16 20:58:52.397	dcmapp_Cellcom_contacts Droped!
+2019-02-16 20:58:52.405	dcmapp_Cellcom Disconnected!
+2019-02-16 20:58:52.405	<<<< finish with Cellcom drop
+2019-02-16 20:59:01.037	<<<< finish with Databases list >>>>
+2019-02-16 20:59:09.206	<<<< finish with Databases list >>>>
+2019-02-16 20:59:35.463	Drop DB Cellcom
+2019-02-16 20:59:35.544	dcmapp_Cellcom_contacts Droped!
+2019-02-16 20:59:35.550	dcmapp_Cellcom Disconnected!
+2019-02-16 20:59:35.550	<<<< finish with Cellcom drop
+2019-02-16 21:00:58.711	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 21:11:58.542	<<<< finish with Databases list >>>>
+2019-02-16 21:13:11.150	Create DB Cellcom
+2019-02-16 21:13:11.207	dcmapp_Cellcom Create succesfuly
+2019-02-16 21:13:11.221	<<<< Cellcom table Contacts COLLOK
+2019-02-16 21:13:11.223	<<<< Cellcom table Phases COLLOK
+2019-02-16 21:13:11.224	<<<< Cellcom table Sites COLLOK
+2019-02-16 21:13:11.226	<<<< Cellcom table Rooms COLLOK
+2019-02-16 21:13:11.228	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 21:13:11.230	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 21:13:11.238	dcmapp_Cellcom Disconnected!
+2019-02-16 21:13:11.238	<<<< finish with Cellcom create
+2019-02-16 21:13:17.369	<<<< finish with Databases list >>>>
+2019-02-16 21:13:30.156	<<<< finish with Databases list >>>>
+2019-02-16 21:13:38.690	Drop DB Cellcom
+2019-02-16 21:14:17.077	<<<< finish with Databases list >>>>
+2019-02-16 21:14:28.535	Create DB Cellcom
+2019-02-16 21:14:28.595	dcmapp_Cellcom Create succesfuly
+2019-02-16 21:14:28.608	<<<< Cellcom table Contacts COLLOK
+2019-02-16 21:14:28.611	<<<< Cellcom table Phases COLLOK
+2019-02-16 21:14:28.613	<<<< Cellcom table Sites COLLOK
+2019-02-16 21:14:28.614	<<<< Cellcom table Rooms COLLOK
+2019-02-16 21:14:28.617	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 21:14:28.619	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 21:14:28.628	dcmapp_Cellcom Disconnected!
+2019-02-16 21:14:28.628	<<<< finish with Cellcom create
+2019-02-16 21:14:36.074	<<<< finish with Databases list >>>>
+2019-02-16 21:14:41.839	<<<< finish with Databases list >>>>
+2019-02-16 21:14:44.400	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 21:14:57.123	dcmapp_Cellcom Disconnected!
+2019-02-16 21:14:57.124	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 21:18:45.877	Drop DB Cellcom
+2019-02-16 21:20:17.919	Drop DB Cellcom
+2019-02-16 21:25:46.592	Drop DB Cellcom
+2019-02-16 21:26:00.785	<<<< finish with Databases list >>>>
+2019-02-16 21:26:42.111	<<<< finish with Databases list >>>>
+2019-02-16 21:26:46.254	Drop DB Cellcom
+2019-02-16 21:30:58.051	Drop DB Cellcom
+2019-02-16 21:41:39.331	Drop DB Cellcom
+2019-02-16 21:41:39.421	<<<< finish with Cellcom drop FAIL
+2019-02-16 21:41:48.311	<<<< finish with Databases list >>>>
+2019-02-16 21:42:59.179	<<<< finish with Databases list >>>>
+2019-02-16 21:43:01.898	Drop DB Cellcom
+2019-02-16 21:43:01.988	<<<< finish with Cellcom drop FAIL
+2019-02-16 21:44:44.497	Drop DB Cellcom
+2019-02-16 21:44:44.601	<<<< finish with Cellcom drop FAIL
+2019-02-16 21:45:09.920	Drop DB Cellcom
+2019-02-16 21:45:10.017	<<<< finish with Cellcom drop FAIL
+2019-02-16 21:45:10.059	dcmapp_Cellcom_contacts Droped!
+2019-02-16 21:45:10.063	dcmapp_Cellcom Disconnected!
+2019-02-16 21:45:10.063	<<<< finish with Cellcom drop DropDB
+2019-02-16 21:45:51.714	<<<< finish with Databases list >>>>
+2019-02-16 21:47:42.001	Drop DB Cellcom
+2019-02-16 21:47:42.063	<<<< finish with Cellcom drop FAIL
+2019-02-16 21:48:14.371	Drop DB Cellcom
+2019-02-16 21:48:14.392	<<<< finish with Cellcom drop FAIL
+2019-02-16 21:48:14.508	dcmapp_Cellcom_contacts Droped!
+2019-02-16 21:48:14.513	dcmapp_Cellcom Disconnected!
+2019-02-16 21:48:14.513	<<<< finish with Cellcom drop DropDB
+2019-02-16 21:48:24.118	<<<< finish with Databases list >>>>
+2019-02-16 21:58:30.036	Drop DB Cellcom
+2019-02-16 21:58:30.059	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:02:29.624	Drop DB Cellcom
+2019-02-16 22:02:29.698	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:03:59.515	Drop DB Cellcom
+2019-02-16 22:03:59.542	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:04:54.711	Drop DB Cellcom
+2019-02-16 22:04:54.741	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:05:20.915	Drop DB Cellcom
+2019-02-16 22:05:20.945	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:05:33.245	<<<< finish with Databases list >>>>
+2019-02-16 22:05:53.072	Drop DB Cellcom
+2019-02-16 22:05:53.099	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:05:53.208	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:05:53.213	dcmapp_Cellcom Disconnected!
+2019-02-16 22:05:53.213	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:06:12.222	<<<< finish with Databases list >>>>
+2019-02-16 22:06:17.517	<<<< finish with Databases list >>>>
+2019-02-16 22:19:44.851	Drop DB Cellcom
+2019-02-16 22:19:44.877	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:19:44.979	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:19:44.983	dcmapp_Cellcom Disconnected!
+2019-02-16 22:19:44.984	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:19:54.386	<<<< finish with Databases list >>>>
+2019-02-16 22:20:01.649	Drop DB Cellcom
+2019-02-16 22:20:01.711	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:20:01.827	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:20:01.829	dcmapp_Cellcom Disconnected!
+2019-02-16 22:20:01.830	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:20:56.224	Drop DB Cellcom
+2019-02-16 22:20:56.286	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:21:02.399	Drop DB Cellcom
+2019-02-16 22:21:02.428	<<<< finish with Cellcom drop FAIL
+2019-02-16 22:21:23.964	Drop DB Cellcom
+2019-02-16 22:22:05.815	Drop DB Cellcom
+2019-02-16 22:22:16.237	Drop DB Cellcom
+2019-02-16 22:22:16.385	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:22:16.388	dcmapp_Cellcom Disconnected!
+2019-02-16 22:22:16.388	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:23:03.822	Drop DB Cellcom
+2019-02-16 22:23:10.198	Drop DB Cellcom
+2019-02-16 22:23:10.331	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:23:10.335	dcmapp_Cellcom Disconnected!
+2019-02-16 22:23:10.335	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:24:34.271	Drop DB Cellcom
+2019-02-16 22:25:33.343	Drop DB Cellcom
+2019-02-16 22:26:26.370	Drop DB Cellcom
+2019-02-16 22:26:35.260	Drop DB Cellcom
+2019-02-16 22:26:35.412	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:26:35.415	dcmapp_Cellcom Disconnected!
+2019-02-16 22:27:43.212	Drop DB Cellcom
+2019-02-16 22:28:04.657	Drop DB Cellcom
+2019-02-16 22:28:15.903	Drop DB Cellcom
+2019-02-16 22:28:16.007	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:28:16.012	dcmapp_Cellcom Disconnected!
+2019-02-16 22:28:16.012	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:35:11.685	Drop DB Cellcom
+2019-02-16 22:35:23.115	Drop DB Cellcom
+2019-02-16 22:35:23.232	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:35:23.240	dcmapp_Cellcom Disconnected!
+2019-02-16 22:35:23.240	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:35:55.286	Drop DB Cellcom
+2019-02-16 22:36:02.467	Drop DB Cellcom
+2019-02-16 22:36:02.581	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:36:02.585	dcmapp_Cellcom Disconnected!
+2019-02-16 22:36:02.585	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:40:57.177	Drop DB Cellcom
+2019-02-16 22:41:05.053	Drop DB Cellcom
+2019-02-16 22:41:05.442	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:41:05.445	dcmapp_Cellcom Disconnected!
+2019-02-16 22:41:05.445	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:42:22.329	Drop DB Cellcom
+2019-02-16 22:42:29.043	Drop DB Cellcom
+2019-02-16 22:42:37.833	<<<< finish with Databases list >>>>
+2019-02-16 22:43:11.207	<<<< finish with Databases list >>>>
+2019-02-16 22:43:21.778	Drop DB Cellcom
+2019-02-16 22:44:10.094	Drop DB Cellcom
+2019-02-16 22:45:17.626	About to drop DB Cellcom
+2019-02-16 22:45:26.151	About to drop DB Cellcom
+2019-02-16 22:45:26.269	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:45:26.273	dcmapp_Cellcom Disconnected!
+2019-02-16 22:45:26.273	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:58:29.892	About to drop DB Cellcom
+2019-02-16 22:58:36.787	About to drop DB Cellcom
+2019-02-16 22:58:36.878	dcmapp_Cellcom_contacts Droped!
+2019-02-16 22:58:36.881	dcmapp_Cellcom Disconnected!
+2019-02-16 22:58:36.881	<<<< finish with Cellcom drop DropDB
+2019-02-16 22:58:49.089	<<<< finish with Databases list >>>>
+2019-02-16 23:00:34.401	About to drop DB Cellcom
+2019-02-16 23:00:34.512	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:00:34.517	dcmapp_Cellcom Disconnected!
+2019-02-16 23:00:34.517	<<<< finish with Cellcom drop DropDB
+2019-02-16 23:01:18.999	About to drop DB Cellcom
+2019-02-16 23:01:30.572	About to drop DB Cellcom
+2019-02-16 23:01:30.713	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:01:30.718	dcmapp_Cellcom Disconnected!
+2019-02-16 23:01:30.718	<<<< finish with Cellcom drop DropDB
+2019-02-16 23:02:39.709	About to drop DB Cellcom
+2019-02-16 23:02:45.031	About to drop DB Cellcom
+2019-02-16 23:02:45.136	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:02:45.143	dcmapp_Cellcom Disconnected!
+2019-02-16 23:02:45.143	<<<< finish with Cellcom drop DropDB
+2019-02-16 23:07:55.959	<<<< finish with Databases list >>>>
+2019-02-16 23:10:47.472	<<<< finish with Databases list >>>>
+2019-02-16 23:11:07.818	<<<< finish with Databases list >>>>
+2019-02-16 23:12:09.679	<<<< finish with Databases list >>>>
+2019-02-16 23:17:11.861	<<<< finish with Databases list >>>>
+2019-02-16 23:18:16.089	<<<< finish with Databases list >>>>
+2019-02-16 23:18:16.090	<<<< finish with Databases list >>>>
+2019-02-16 23:18:16.090	<<<< finish with Databases list >>>>
+2019-02-16 23:18:16.090	<<<< finish with Databases list >>>>
+2019-02-16 23:26:14.852	<<<< finish with Databases list >>>>
+2019-02-16 23:26:14.854	<<<< finish with Databases list >>>>
+2019-02-16 23:26:14.855	<<<< finish with Databases list >>>>
+2019-02-16 23:26:14.859	<<<< finish with Databases list >>>>
+2019-02-16 23:26:59.766	<<<< finish with Databases list >>>>
+2019-02-16 23:27:52.415	<<<< finish with Databases list >>>>
+2019-02-16 23:28:35.820	<<<< finish with Databases list >>>>
+2019-02-16 23:29:13.494	<<<< finish with Databases list >>>>
+2019-02-16 23:30:01.536	<<<< finish with Databases list >>>>
+2019-02-16 23:31:59.923	About to drop DB Cellcom
+2019-02-16 23:32:20.339	About to drop DB Cellcom
+2019-02-16 23:34:13.410	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 23:34:22.821	dcmapp_Cellcom Disconnected!
+2019-02-16 23:34:22.824	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 23:40:27.928	dcmapp_Cellcom Disconnected!
+2019-02-16 23:40:27.932	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 23:40:39.959	About to drop DB Cellcom
+2019-02-16 23:40:47.036	dcmapp_Cellcom Disconnected!
+2019-02-16 23:40:47.040	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 23:40:57.691	About to drop DB Cellcom
+2019-02-16 23:42:49.974	About to drop DB Cellcom
+2019-02-16 23:42:50.075	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:42:50.079	dcmapp_Cellcom Disconnected!
+2019-02-16 23:42:50.080	<<<< finish with Cellcom drop DropDB
+2019-02-16 23:42:55.098	About to drop DB Cellcom
+2019-02-16 23:43:48.520	About to drop DB Cellcom
+2019-02-16 23:45:03.272	About to drop DB Cellcom
+2019-02-16 23:45:03.388	<<<< finish with Cellcom drop Cellcom not exist
+2019-02-16 23:45:27.839	About to drop DB Cellcom
+2019-02-16 23:45:27.943	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:45:27.948	dcmapp_Cellcom Disconnected!
+2019-02-16 23:45:27.948	<<<< finish with Cellcom drop DropDB
+2019-02-16 23:46:24.053	About to drop DB Cellcom
+2019-02-16 23:46:24.118	<<<< finish with Cellcom drop Cellcom not exist
+2019-02-16 23:47:16.011	About to drop DB Cellcom
+2019-02-16 23:47:16.087	<<<< finish with Cellcom drop Failed Cellcom not exist
+2019-02-16 23:47:43.968	About to drop DB Cellcom
+2019-02-16 23:47:44.039	<<<< finish with Cellcom drop Failed !!! - Cellcom not exist
+2019-02-16 23:47:57.075	About to drop DB Cellcom
+2019-02-16 23:47:57.185	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:47:57.190	dcmapp_Cellcom Disconnected!
+2019-02-16 23:47:57.190	<<<< finish with Cellcom drop OK
+2019-02-16 23:48:19.473	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 23:48:26.876	dcmapp_Cellcom Disconnected!
+2019-02-16 23:48:26.880	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 23:48:38.500	About to drop DB Cellcom
+2019-02-16 23:48:38.606	dcmapp_Cellcom_contacts Droped!
+2019-02-16 23:48:38.610	dcmapp_Cellcom Disconnected!
+2019-02-16 23:48:38.610	<<<< finish with Cellcom drop OK
+2019-02-16 23:51:08.677	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 23:52:07.042	<<<< finish with Cellcom Collections collections >>>>
+2019-02-16 23:52:12.960	<<<< finish with Tnuva Collections collections >>>>
+2019-02-16 23:52:18.557	<<<< finish with undefined Collections collections >>>>
+2019-02-16 23:52:36.148	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-16 23:52:43.112	About to drop DB undefined
+2019-02-16 23:52:43.215	<<<< finish with undefined drop Failed !!! - undefined not exist
+2019-02-16 23:54:38.865	Create DB Cellcom
+2019-02-16 23:54:38.952	dcmapp_Cellcom Create succesfuly
+2019-02-16 23:54:38.966	<<<< Cellcom table Contacts COLLOK
+2019-02-16 23:54:38.968	<<<< Cellcom table Phases COLLOK
+2019-02-16 23:54:38.969	<<<< Cellcom table Sites COLLOK
+2019-02-16 23:54:38.971	<<<< Cellcom table Rooms COLLOK
+2019-02-16 23:54:38.973	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 23:54:38.975	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 23:54:38.983	dcmapp_Cellcom Disconnected!
+2019-02-16 23:54:38.983	<<<< finish with Cellcom create
+2019-02-16 23:54:42.953	Create DB Cellcom
+2019-02-16 23:54:43.062	dcmapp_Cellcom Create succesfuly
+2019-02-16 23:54:43.076	<<<< Cellcom table Contacts COLLOK
+2019-02-16 23:54:43.078	<<<< Cellcom table Phases COLLOK
+2019-02-16 23:54:43.080	<<<< Cellcom table Sites COLLOK
+2019-02-16 23:54:43.081	<<<< Cellcom table Rooms COLLOK
+2019-02-16 23:54:43.083	<<<< Cellcom table Cabinets COLLOK
+2019-02-16 23:54:43.085	<<<< Cellcom table DCIDs COLLOK
+2019-02-16 23:54:43.096	dcmapp_Cellcom Disconnected!
+2019-02-16 23:54:43.097	<<<< finish with Cellcom create
+2019-02-16 23:54:51.085	Create DB Cellcom
+2019-02-16 23:54:51.156	<<<< finish with Cellcom create
+2019-02-16 23:56:13.141	Create DB Cellcom
+2019-02-16 23:56:13.247	<<<< finish with Cellcom create Failed !!! - Cellcom already exist
+2019-02-17 09:01:31.693	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-17 09:01:36.775	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-17 09:01:43.805	<<<< finish with Databases list >>>>
+2019-02-17 09:02:01.472	dcmapp_Cellcom Disconnected!
+2019-02-17 09:02:01.476	<<<< finish with Cellcom Collections collections >>>>
+2019-02-17 09:02:14.010	Create DB Cellcom
+2019-02-17 09:02:14.091	<<<< finish with Cellcom create Failed !!! - Cellcom already exist
+2019-02-17 09:02:26.415	About to drop DB Cellcoma
+2019-02-17 09:02:26.487	<<<< finish with Cellcoma drop Failed !!! - Cellcoma not exist
+2019-02-17 09:02:32.351	About to drop DB Cellcom
+2019-02-17 09:02:32.479	dcmapp_Cellcom_contacts Droped!
+2019-02-17 09:02:32.482	dcmapp_Cellcom Disconnected!
+2019-02-17 09:02:32.482	<<<< finish with Cellcom drop OK
+2019-02-17 09:02:39.874	Create DB Cellcom
+2019-02-17 09:02:39.961	dcmapp_Cellcom Create succesfuly
+2019-02-17 09:02:39.992	<<<< Cellcom table Contacts COLLOK
+2019-02-17 09:02:39.998	<<<< Cellcom table Phases COLLOK
+2019-02-17 09:02:40.003	<<<< Cellcom table Sites COLLOK
+2019-02-17 09:02:40.008	<<<< Cellcom table Rooms COLLOK
+2019-02-17 09:02:40.015	<<<< Cellcom table Cabinets COLLOK
+2019-02-17 09:02:40.020	<<<< Cellcom table DCIDs COLLOK
+2019-02-17 09:02:40.039	dcmapp_Cellcom Disconnected!
+2019-02-17 09:02:40.039	<<<< finish with Cellcom create DBOK
+2019-02-17 13:20:08.232	dcmapp_Base Disconnected!
+2019-02-17 14:34:50.719	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-17 14:34:53.801	<<<< finish with Databases list >>>>
+2019-02-17 14:35:04.197	Create DB Cellcom
+2019-02-17 14:35:04.280	dcmapp_Cellcom Create succesfuly
+2019-02-17 14:35:04.294	<<<< Cellcom table Contacts COLLOK
+2019-02-17 14:35:04.296	<<<< Cellcom table Phases COLLOK
+2019-02-17 14:35:04.298	<<<< Cellcom table Sites COLLOK
+2019-02-17 14:35:04.299	<<<< Cellcom table Rooms COLLOK
+2019-02-17 14:35:04.301	<<<< Cellcom table Cabinets COLLOK
+2019-02-17 14:35:04.304	<<<< Cellcom table DCIDs COLLOK
+2019-02-17 14:35:04.306	<<<< Cellcom table Envs COLLOK
+2019-02-17 14:35:04.314	dcmapp_Cellcom Disconnected!
+2019-02-17 14:35:04.314	<<<< finish with Cellcom create DBOK
+2019-02-17 14:37:03.646	<<<< finish with Databases list >>>>
+2019-02-17 14:37:13.689	Create DB Cellcom
+2019-02-17 14:37:13.748	<<<< finish with Cellcom create Failed !!! - Cellcom already exist
+2019-02-17 14:37:25.417	About to drop DB Cellcom
+2019-02-17 14:37:25.512	dcmapp_Cellcom_contacts Droped!
+2019-02-17 14:37:25.514	dcmapp_Cellcom Disconnected!
+2019-02-17 14:37:25.514	<<<< finish with Cellcom drop OK
+2019-02-17 15:19:18.669	<<<< finish with Databases list >>>>
+2019-02-19 20:09:22.610	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-19 20:09:30.293	<<<< finish with Databases list >>>>

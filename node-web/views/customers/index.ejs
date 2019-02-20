@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Customers List</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <div class="container">
+      <h3><a href="/customers/create">Create Customer</a></h3>
+      <h1>Customers List</h1>
+      <% if(customers.length>0) { %>
+      <table>
+        <thead>
+          <tr>
+            <th>Customer Name</th>
+            <th>Location</th>
+            <th>Project Manager</th>
+            <th>Technical Manager</th>
+            <th>Start Date</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+
+          <% for(var i=0; i<customers.length;i++) { %>
+            <tr>
+              <td style='text-align:center;'><a href="/customers/show/<%= customers[i]._id%>"><%= customers[i].cName%></a></td>
+              <td style='text-align:center;'><%= customers[i].cLocation%></td>
+              <td style='text-align:center;'><%= customers[i].cProjM%></td>
+              <td style='text-align:center;'><%= customers[i].cTechM%></td>
+              <td style='text-align:center;'><%= customers[i].cStartDate%></td>
+              <td style='text-align:center;'><%= customers[i].cStatus%></td>
+            </tr>
+          <% } %>
+        </tbody>
+      </table>
+      <% } else { %>
+        <div>No customers found.</div>
+      <% } %>
+    </div>
+  </body>
+</html>
