@@ -795,3 +795,83 @@
 2019-02-17 15:19:18.669	<<<< finish with Databases list >>>>
 2019-02-19 20:09:22.610	Missing argv input [list] | [create/collections/drop] Customer
 2019-02-19 20:09:30.293	<<<< finish with Databases list >>>>
+2019-02-21 19:43:46.618	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-21 19:43:59.966	<<<< finish with Databases list >>>>
+2019-02-21 19:44:33.632	Create DB Tnuva
+2019-02-21 19:44:33.769	dcmapp_Tnuva Create succesfuly
+2019-02-21 19:44:33.794	<<<< Tnuva table Contacts COLLOK
+2019-02-21 19:44:33.809	<<<< Tnuva table Phases COLLOK
+2019-02-21 19:44:33.812	<<<< Tnuva table Sites COLLOK
+2019-02-21 19:44:33.815	<<<< Tnuva table Rooms COLLOK
+2019-02-21 19:44:33.820	<<<< Tnuva table Cabinets COLLOK
+2019-02-21 19:44:33.824	<<<< Tnuva table DCIDs COLLOK
+2019-02-21 19:44:33.828	<<<< Tnuva table Envs COLLOK
+2019-02-21 19:44:33.845	dcmapp_Tnuva Disconnected!
+2019-02-21 19:44:33.846	<<<< finish with Tnuva create DBOK
+2019-02-21 19:50:21.263	<<<< finish with Tnuva Collections collections >>>>
+2019-02-22 16:40:23.365	Create DB Tnuva
+2019-02-22 16:40:23.480	dcmapp_Tnuva Create succesfuly
+2019-02-22 16:40:23.498	<<<< Tnuva table Contacts COLLOK
+2019-02-22 16:40:23.502	<<<< Tnuva table Phases COLLOK
+2019-02-22 16:40:23.504	<<<< Tnuva table Sites COLLOK
+2019-02-22 16:40:23.506	<<<< Tnuva table Rooms COLLOK
+2019-02-22 16:40:23.509	<<<< Tnuva table Cabinets COLLOK
+2019-02-22 16:40:23.511	<<<< Tnuva table DCIDs COLLOK
+2019-02-22 16:40:23.513	<<<< Tnuva table Envs COLLOK
+2019-02-22 16:40:23.521	<<<< Tnuva table Cables COLLOK
+2019-02-22 16:40:23.535	dcmapp_Tnuva Disconnected!
+2019-02-22 16:40:23.535	<<<< finish with Tnuva create DBOK
+2019-02-22 16:57:02.032	Create DB Tnuva
+2019-02-22 16:57:02.149	dcmapp_Tnuva Create succesfuly
+2019-02-22 16:57:02.167	<<<< Tnuva table Contacts COLLOK
+2019-02-22 16:57:02.169	<<<< Tnuva table Phases COLLOK
+2019-02-22 16:57:02.171	<<<< Tnuva table Sites COLLOK
+2019-02-22 16:57:02.172	<<<< Tnuva table Rooms COLLOK
+2019-02-22 16:57:02.174	<<<< Tnuva table Cabinets COLLOK
+2019-02-22 16:57:02.177	<<<< Tnuva table DCIDs COLLOK
+2019-02-22 16:57:02.178	<<<< Tnuva table Envs COLLOK
+2019-02-22 16:57:02.180	<<<< Tnuva table Cables COLLOK
+2019-02-22 16:57:02.195	dcmapp_Tnuva Disconnected!
+2019-02-22 16:57:02.195	<<<< finish with Tnuva create DBOK
+2019-02-22 16:57:09.311	<<<< finish with Databases list >>>>
+2019-02-22 17:04:34.580	Create DB Tnuva
+2019-02-22 17:04:34.686	dcmapp_Tnuva Create succesfuly
+2019-02-22 17:04:34.706	<<<< Tnuva table Contacts COLLOK
+2019-02-22 17:04:34.708	<<<< Tnuva table Phases COLLOK
+2019-02-22 17:04:34.710	<<<< Tnuva table Sites COLLOK
+2019-02-22 17:04:34.712	<<<< Tnuva table Rooms COLLOK
+2019-02-22 17:04:34.713	<<<< Tnuva table Cabinets COLLOK
+2019-02-22 17:04:34.716	<<<< Tnuva table DCIDs COLLOK
+2019-02-22 17:04:34.719	<<<< Tnuva table Envs COLLOK
+2019-02-22 17:04:34.723	<<<< Tnuva table Cables COLLOK
+2019-02-22 17:04:34.736	dcmapp_Tnuva Disconnected!
+2019-02-22 17:04:34.737	<<<< finish with Tnuva create DBOK
+2019-02-22 17:04:39.459	<<<< finish with Databases list >>>>
+2019-02-22 17:05:52.505	Create DB Tnuva
+2019-02-22 17:05:52.636	dcmapp_Tnuva Create succesfuly
+2019-02-22 17:05:52.659	<<<< Tnuva table Contacts COLLOK
+2019-02-22 17:05:52.663	<<<< Tnuva table Phases COLLOK
+2019-02-22 17:05:52.665	<<<< Tnuva table Sites COLLOK
+2019-02-22 17:05:52.668	<<<< Tnuva table Rooms COLLOK
+2019-02-22 17:05:52.671	<<<< Tnuva table Cabinets COLLOK
+2019-02-22 17:05:52.677	<<<< Tnuva table DCIDs COLLOK
+2019-02-22 17:05:52.681	<<<< Tnuva table Envs COLLOK
+2019-02-22 17:05:52.683	<<<< Tnuva table Cables COLLOK
+2019-02-22 17:05:52.699	dcmapp_Tnuva Disconnected!
+2019-02-22 17:05:52.700	<<<< finish with Tnuva create DBOK
+2019-02-22 17:05:55.999	<<<< finish with Databases list >>>>
+2019-02-22 17:06:04.101	<<<< finish with Databases list >>>>
+2019-02-22 17:06:06.483	Missing argv input [list] | [create/collections/drop] Customer
+2019-02-22 17:06:17.135	<<<< finish with Tnuva Collections collections >>>>
+2019-02-22 17:08:17.005	Create DB Tnuva
+2019-02-22 17:08:17.105	dcmapp_Tnuva Create succesfuly
+2019-02-22 17:08:17.124	<<<< Tnuva table Contacts COLLOK
+2019-02-22 17:08:17.127	<<<< Tnuva table Phases COLLOK
+2019-02-22 17:08:17.129	<<<< Tnuva table Sites COLLOK
+2019-02-22 17:08:17.132	<<<< Tnuva table Rooms COLLOK
+2019-02-22 17:08:17.134	<<<< Tnuva table Cabinets COLLOK
+2019-02-22 17:08:17.138	<<<< Tnuva table DCIDs COLLOK
+2019-02-22 17:08:17.142	<<<< Tnuva table Envs COLLOK
+2019-02-22 17:08:17.145	<<<< Tnuva table Cables COLLOK
+2019-02-22 17:08:17.159	dcmapp_Tnuva Disconnected!
+2019-02-22 17:08:17.159	<<<< finish with Tnuva create DBOK

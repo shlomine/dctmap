@@ -1,10 +1,10 @@
 const mongoose = require('mongoose');
 
 var PhasesSchema = new mongoose.Schema({
-  pName: String,
-  pDate: String,
-  contact_id: String,
-  description: String
+  pName: {type:String, default: 'dcmapp'},
+  pDate: {type:String, default: 'dcmapp'},
+  contact_id: {type:String, default: 'dcmapp'},
+  description: {type:String, default: 'dcmapp'}
 },{timestamps : true});
 
 module.exports = mongoose.model('Phases', PhasesSchema);

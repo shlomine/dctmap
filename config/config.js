@@ -8,7 +8,7 @@ module.exports = {
 	title: "dcmapp",
 	base: "dcmapp_Base",
 	schema: baseDir+'schema/',
-        collect: [ 'Contacts','Phases','Sites','Rooms','Cabinets','DCIDs','Envs' ],
+        collect: [ 'Contacts','Phases','Sites','Rooms','Cabinets','DCIDs','Envs','Cables' ],
     },
     db: {
         host: "localhost",
